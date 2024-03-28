@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/tommilkart-2024/static/css/main.cfca9006.css",
+    "main.js": "/tommilkart-2024/static/js/main.59d7d9e2.js",
+    "static/js/453.64265719.chunk.js": "/tommilkart-2024/static/js/453.64265719.chunk.js",
+    "static/media/guy1.png": "/tommilkart-2024/static/media/guy1.0fc4583d592bf509eaad.png",
+    "static/media/guy2.png": "/tommilkart-2024/static/media/guy2.021129d4b1f241d8e692.png",
+    "static/media/surf.mp4": "/tommilkart-2024/static/media/surf.30d2603997d56ec18d08.mp4",
+    "static/media/title.png": "/tommilkart-2024/static/media/title.467f1d399dcf2fd1ae6e.png",
+    "static/media/simp4.jpeg": "/tommilkart-2024/static/media/simp4.79abe29eae3cd6d02ae3.jpeg",
+    "static/media/guy3.png": "/tommilkart-2024/static/media/guy3.e8a09037ab1f203fc6ed.png",
+    "static/media/wrist.jpeg": "/tommilkart-2024/static/media/wrist.c41a79e95d93430d429f.jpeg",
+    "static/media/simp2.jpeg": "/tommilkart-2024/static/media/simp2.2d8a1743fc6517c39b05.jpeg",
+    "static/media/simp3.jpeg": "/tommilkart-2024/static/media/simp3.43699664e3b3dc9308a4.jpeg",
+    "static/media/guy.png": "/tommilkart-2024/static/media/guy.863e9874930890f1d156.png",
+    "static/media/simp6.jpeg": "/tommilkart-2024/static/media/simp6.ab9c11816e66bd6d1c72.jpeg",
+    "static/media/simp1.jpeg": "/tommilkart-2024/static/media/simp1.4093ca7ddb869b9154c3.jpeg",
+    "static/media/passion.jpeg": "/tommilkart-2024/static/media/passion.912207e61616f4d131e5.jpeg",
+    "static/media/simp5.jpeg": "/tommilkart-2024/static/media/simp5.7d9aed238a5ed24a8cf1.jpeg",
+    "static/media/internet.jpeg": "/tommilkart-2024/static/media/internet.cae200abe057c6b138f0.jpeg",
+    "static/media/sal.jpeg": "/tommilkart-2024/static/media/sal.4eb3fd1a16db1c0a93d3.jpeg",
+    "static/media/sal2.jpeg": "/tommilkart-2024/static/media/sal2.d2f8ed72b1673fd95fa6.jpeg",
+    "static/media/lantern.jpeg": "/tommilkart-2024/static/media/lantern.5a459dd231bf055a3b16.jpeg",
+    "static/media/hangsesh.jpeg": "/tommilkart-2024/static/media/hangsesh.276189aa8ff6c47fd562.jpeg",
+    "static/media/log.png": "/tommilkart-2024/static/media/log.54a90bfb7557fc45639e.png",
+    "index.html": "/tommilkart-2024/index.html",
+    "main.cfca9006.css.map": "/tommilkart-2024/static/css/main.cfca9006.css.map",
+    "main.59d7d9e2.js.map": "/tommilkart-2024/static/js/main.59d7d9e2.js.map",
+    "453.64265719.chunk.js.map": "/tommilkart-2024/static/js/453.64265719.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfca9006.css",
+    "static/js/main.59d7d9e2.js"
+  ]
+}
